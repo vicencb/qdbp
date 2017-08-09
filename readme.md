@@ -24,7 +24,7 @@ int main() {
   return(0);
 }
 ```
-Synopsys
+Synopsis
 ---------------
 ```c
 #include "qdbp.h"
