@@ -95,4 +95,5 @@ The `qdbp_set_trap` returns:
 License
 ---------------
 This software is licensed under the 0BSD license (BSD Zero Clause License).
+
 https://spdx.org/licenses/0BSD.html
